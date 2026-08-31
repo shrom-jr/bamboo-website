@@ -174,7 +174,7 @@ const LocationHub = () => {
         >
           <iframe
             title="S Bamboo Cottage Location Map"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.812282298711!2d85.3615!3d27.6925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjfCsDQxJzMzLjAiTiA4NcKwMjEnNDEuNCJF!5e0!3m2!1sen!2snp!4v1620000000000!5m2!1sen!2snp"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d220.80054150524205!2d85.36509662243104!3d27.69233051936945!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1b6d6bae26fb%3A0x98594ba210782e9d!2sS%20Bamboo%20Cottage%20%26%20Sekuwa%20Corner%2C%20Pepsicola!5e0!3m2!1sen!2snp!4v1788187889126!5m2!1sen!2snp"
             width="100%"
             height="100%"
             style={{ border: 0, filter: 'grayscale(0.8) invert(0.9) contrast(1.2)' }}
