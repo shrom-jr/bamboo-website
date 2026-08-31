@@ -54,7 +54,7 @@ const Navbar = () => {
                 S BAMBOO
               </span>
               <span className="text-[10px] tracking-[0.25em] text-[#C5A059] uppercase -mt-1 font-medium">
-                Cottage & Sekuwa
+                Cottage & Sekuwa Corner
               </span>
             </div>
           </a>
