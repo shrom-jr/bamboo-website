@@ -10,14 +10,14 @@ import { Flame, Award, ShieldCheck, ChefHat } from 'lucide-react';
 const chefs = [
   {
     id: 1,
-    name: "Master Kaji Shrestha",
-    role: "Executive Coal Grill Specialist",
-    experience: "18+ Years Experience",
-    specialty: "Hardwood Coal-Fire Temperature Control",
+    name: "Master Govinda",
+    role: "Executive Chef",
+    experience: "10+ Years Experience",
+    specialty: "Local, Continental & Grill",
     quote: "Perfect Sekuwa is an art of patience—balancing raw hardwood smoke with tenderized Himalayan spices.",
     localImage: "/chefs/chef1.jpg",
     fallbackImage: "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=800&q=80",
-    badge: "Master Roaster",
+    badge: "Master Chef",
   },
   {
     id: 2,
